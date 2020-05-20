@@ -1,0 +1,10 @@
+Package: Pkgtest
+Type: Package
+Title: Testing how to create an R package!
+Version: 0.1.0
+Author: Stefanos Apostle
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: I've written a simple function to usefor this package so that I can test creating and utilizing a package.
+License: NA
+Encoding: UTF-8
+LazyData: true
